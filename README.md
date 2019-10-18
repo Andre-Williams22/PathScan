@@ -1,15 +1,13 @@
 # AI_Startup_Prototype
-This is the code for "Watch Me Build an AI Startup" By Siraj Raval on Youtube
+
 
 # Overview 
 
-This is the code for [this](https://youtu.be/NzmoPqte4V4) video on Youtube by Siraj Raval on how to build an AI Startup. It contains the transfer learning notebook and the notes from the video as a notebook as well. 
+This is the code takes in a photo scan of a person and outputs the likelihood of a person having a disease. It contains the transfer learning notebook and the notes from the design as well. 
 
 
 
 ![License](http://img.shields.io/:license-mit-blue.svg)
-
-A fork of [Max Halford's](https://github.com/MaxHalford) [flask-boilerplate](https://github.com/MaxHalford/flask-boilerplate) and https://github.com/alectrocute/flaskSaaS/edit/master/README.md
 
 ## Features
 
